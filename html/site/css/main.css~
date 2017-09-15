@@ -1,0 +1,28 @@
+.bg-nav{
+	background-color:#850404;
+	position:relative;
+}
+
+#myCarousel{
+	max-height:400px;
+}
+
+.bg-carousel{
+	max-width: 1200px;
+	max-height:400px;
+	margin:auto;
+}
+
+.img-banner{
+	max-height: 400px;
+	max-width: 1200px;
+	margin: auto;
+}
+
+.empresas{
+	margin-top:30px;
+}
+
+.foto-empresa{
+	margin: 20px 0px;
+}
