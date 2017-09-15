@@ -61,7 +61,7 @@ charset=UTF-8">
         </form>
       </div>
     </nav>
-    <br style="display:block" />
+    
 <div class="bg-carousel">
     <div id="myCarousel" class="carousel slide" data-ride="carousel">
 		  <ol class="carousel-indicators">
@@ -98,16 +98,35 @@ charset=UTF-8">
     <div class="container empresas">
       <!-- Example row of columns -->
       <div class="row">
-        <div class="col-md-4 foto-empresa">
-          <img class="d-block w-100" src="../images/3.jpg" alt="First slide">
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e1.jpg" alt="First slide">
         </div>
-        <div class="col-md-4 foto-empresa">
-          <img class="d-block w-100" src="../images/2.jpg" alt="Second slide">
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e2.jpg" alt="Second slide">
         </div>
-        <div class="col-md-4 foto-empresa">
-          <img class="d-block w-100" src="../images/1.jpg" alt="Third slide">
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e3.png" alt="Third slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e4.jpg" alt="First slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e5.png" alt="Second slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e6.png" alt="Third slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e7.jpg" alt="First slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e8.png" alt="Second slide">
+        </div>
+        <div class="col-md-4 col-4 foto-empresa">
+          <img class="d-block w-100" src="../images/e9.png" alt="Third slide">
         </div>
       </div>
+      
 
       <hr>
 
